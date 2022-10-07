@@ -44,7 +44,13 @@ const DemosPage = () => (
                 href="/dashboard/default"
                 sx={{ width: '100%', height: { xs: '220px', sm: '250px', md: '300px' }, position: 'relative' }}
               >
-                <Image src={'/berry-dashboard/assets/images/landing/img-demo-1.jpg'} alt="Berry Dashboard" layout="fill" width={'100%'} height={'100%'} />
+                <Image
+                  src={'/berry-dashboard/assets/images/landing/img-demo-1.jpg'}
+                  alt="Berry Dashboard"
+                  layout="fill"
+                  width={'100%'}
+                  height={'100%'}
+                />
               </ButtonBase>
             </FadeInWhenVisible>
           </Grid>
@@ -55,7 +61,13 @@ const DemosPage = () => (
                 component={Link}
                 href="/app/user/social-profile/posts"
               >
-                <Image src={'/berry-dashboard/assets/images/landing/img-demo-2.jpg'} alt="Berry Social App" width={'100%'} height={'100%'} layout="fill" />
+                <Image
+                  src={'/berry-dashboard/assets/images/landing/img-demo-2.jpg'}
+                  alt="Berry Social App"
+                  width={'100%'}
+                  height={'100%'}
+                  layout="fill"
+                />
               </ButtonBase>
             </FadeInWhenVisible>
           </Grid>
@@ -66,7 +78,13 @@ const DemosPage = () => (
                 href="/dashboard/default"
                 sx={{ width: '100%', height: { xs: '220px', sm: '250px', md: '300px' }, position: 'relative' }}
               >
-                <Image src={'/berry-dashboard/assets/images/landing/img-demo-3.jpg'} alt="Berry Mail App" layout="fill" width={'100%'} height={'100%'} />
+                <Image
+                  src={'/berry-dashboard/assets/images/landing/img-demo-3.jpg'}
+                  alt="Berry Mail App"
+                  layout="fill"
+                  width={'100%'}
+                  height={'100%'}
+                />
               </ButtonBase>
             </FadeInWhenVisible>
           </Grid>
