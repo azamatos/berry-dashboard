@@ -31,7 +31,7 @@ jobs:
       env:
         NEXT_PUBLIC_BASE_PATH: /berry-dashboard
     - run: npm run export
-    env:
+      env:
         NEXT_PUBLIC_BASE_PATH: /berry-dashboard
     - run: touch ./out/.nojekyll
     - name: Deploy 🚀
