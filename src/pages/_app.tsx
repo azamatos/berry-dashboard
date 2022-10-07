@@ -27,7 +27,7 @@ const Noop: React.FC = ({ children }) => {
   return <> {children} </>;
 };
 
-const prefix = process.env.NEXT_PUBLIC_BASE_PATH || '';
+const prefix = 'berry-dashboard';
 
 function MyApp({ Component, pageProps }: AppProps & { Component: { Layout: LayoutType } }) {
   let Layout;
