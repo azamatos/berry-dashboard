@@ -116,5 +116,9 @@
     "prettier": "^2.5.1",
     "sass": "^1.49.9",
     "typescript": "^4.6.2"
-  }
+  },
+  "cacheDirectories": [
+    "node_modules/",
+    ".next/cache/"
+  ]
 }
