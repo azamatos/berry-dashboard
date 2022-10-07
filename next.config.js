@@ -18,8 +18,8 @@ const nextConfig = withTM({
     loader: 'akamai',
     path: '',
   },
-  basePath: '/berry-dashboard',
-  assetPrefix: '/berry-dashboard',
+  basePath: process.env.NEXT_PUBLIC_BASE_PATH,
+  assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH
 });
 
 module.exports = nextConfig;
