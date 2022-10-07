@@ -19,7 +19,7 @@ const nextConfig = withTM({
     path: '',
   },
   basePath: '/berry-dashboard',
-  assetPrefix: '/berry-dashboard',
+  assetPrefix: '/berry-dashboard/',
 });
 
 module.exports = nextConfig;
