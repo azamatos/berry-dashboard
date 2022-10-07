@@ -27,7 +27,7 @@ interface Props {
   index: number;
 }
 
-const backImage = '/assets/images/profile';
+const backImage = '/berry-dashboard/assets/images/profile';
 
 // item drag wrapper
 const getDragWrapper = (

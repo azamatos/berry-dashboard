@@ -20,7 +20,7 @@ import GroupTwoToneIcon from '@mui/icons-material/GroupTwoTone';
 // types
 import { FriendsCardProps } from 'types/user';
 
-const avatarImage = '/assets/images/profile';
+const avatarImage = '/berry-dashboard/assets/images/profile';
 
 // ==============================|| SOCIAL PROFILE - FRIENDS CARD ||============================== //
 

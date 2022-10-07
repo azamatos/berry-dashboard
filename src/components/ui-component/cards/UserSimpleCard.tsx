@@ -17,7 +17,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 // types
 import { UserSimpleCardProps } from 'types/user';
 
-const avatarImage = '/assets/images/profile';
+const avatarImage = '/berry-dashboard/assets/images/profile';
 
 // styles
 const FacebookWrapper = styled(Button)({

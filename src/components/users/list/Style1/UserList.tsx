@@ -28,7 +28,7 @@ import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 import BlockTwoToneIcon from '@mui/icons-material/BlockTwoTone';
 
-const avatarImage = '/assets/images/profile';
+const avatarImage = '/berry-dashboard/assets/images/profile';
 
 // ==============================|| USER LIST 1 ||============================== //
 

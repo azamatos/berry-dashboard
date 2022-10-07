@@ -6,7 +6,7 @@ import AvatarStatus from './AvatarStatus';
 import { UserProfile } from 'types/user-profile';
 
 // assets
-const avatarImage = '/assets/images/users';
+const avatarImage = '/berry-dashboard/assets/images/users';
 
 // ==============================|| CHAT USER AVATAR WITH STATUS ICON ||============================== //
 
